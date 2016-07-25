@@ -1,0 +1,14 @@
+layout_spectrum: 0.2646591893862933
+typography_spectrum: 0.8039524699561298
+color:
+  brandStrength: 0.10774726769886911
+  lightness: 0.8150180580560118
+  saturation: 0.7987702689133584
+  rhythmicContrast: 0.9948465621564537
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: SockerChocken
